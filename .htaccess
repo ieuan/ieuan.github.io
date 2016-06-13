@@ -1,4 +1,4 @@
 AuthType Basic
-AuthName "sandbox.chalkward.co.uk"
+AuthName "ieuan.github.io"
 AuthUserFile /.htpasswd
 Require valid-user
